@@ -32,7 +32,7 @@
         { 
             var area = Math.PI * Math.Pow(radius, 2);
 
-
+            return area;
         }
     }
 }
